@@ -32,7 +32,7 @@ To convert raw sales data into meaningful insights through clean visuals, optimi
 
 ## 📁 Project Files
 - `mobile sales data.pbix` – Power BI dashboard file
-- `screenshots/` – Dashboard preview images
+- `Images/` – Dashboard preview images
 - `README.md` – Project documentation
 
 ---
@@ -40,15 +40,4 @@ To convert raw sales data into meaningful insights through clean visuals, optimi
 
 **Shubham Mitkari**  
 Aspiring Data Analyst | Power BI | Data Visualization
-
-## 📸 Dashboard Screenshots
-
-### Dashboard Overview
-![Dashboard](screenshots/2025-12-28_111025.png)
-
-### MTD Report
-![MTD Report](screenshots/2025-12-28_114123.png)
-
-### Same Period Last Year
-![Same Period Last Year](screenshots/2025-12-28_114250.png)
 
