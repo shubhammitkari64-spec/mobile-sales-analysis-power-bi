@@ -27,18 +27,6 @@ To convert raw sales data into meaningful insights through clean visuals, optimi
 
 ---
 
-## 📸 Dashboard Screenshots
-
-### Sales Overview
-![Sales Overview](screenshots/sales_overview.png)
-
-### Product Analysis
-![Product Analysis](screenshots/product_analysis.png)
-
-### Customer & Region Analysis
-![Customer & Region Analysis](screenshots/customer_region.png)
-
-> 📌 *Screenshots are stored in the `screenshots` folder.*
 
 ---
 
