@@ -4,6 +4,8 @@
 
 This project showcases an interactive **Power BI dashboard** designed to analyze mobile sales data and uncover actionable business insights. The dashboard focuses on sales performance, profitability, customer behavior, and regional trends using dynamic KPIs and visuals.
 
+![image alt](https://github.com/shubhammitkari64-spec/mobile-sales-analysis-power-bi/blob/3bfe9b654d6c5fbe70eaed285994084a7c91b585/Screenshot%202025-12-28%20212434.png)
+
 ---
 
 ## 🔍 Key Features
