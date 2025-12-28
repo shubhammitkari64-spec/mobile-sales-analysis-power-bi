@@ -1,8 +1,21 @@
-# 📊 Mobile Sales Analysis Dashboard | Power BI
+# 📊 Mobile Sales Analysis Dashboard | Power Bi
+
+This project showcases an interactive **Power BI dashboard** designed to analyze mobile sales data and uncover actionable business insights. The dashboard focuses on sales performance, profitability, customer behavior, and regional trends using dynamic KPIs and visuals.
 
 ![image alt](https://github.com/shubhammitkari64-spec/mobile-sales-analysis-power-bi/blob/44c20cb1c50d62c7df51201d8c669bbb9791584e/Screenshot%202025-12-28%20212345.png)
 
-This project showcases an interactive **Power BI dashboard** designed to analyze mobile sales data and uncover actionable business insights. The dashboard focuses on sales performance, profitability, customer behavior, and regional trends using dynamic KPIs and visuals.
+ Core Metrics
+-Total Sales: 769M
+-Quantity & Volume: 19K units across 4K transactions.
+-Average Price: 40.11K.
+
+-Key Insights
+Top Performers: Apple is the leading brand by revenue, with the iPhone SE being the top-selling model.
+-Sales Trends: Monthly quantity peaks in March and July, while daily sales are strongest on Mondays and Fridays.
+-Geographic Reach: Significant sales clusters are visible across major Indian cities like Delhi, Mumbai, and Bangalore.
+-Customer Experience: Feedback is overwhelmingly "Good," and customers use a nearly equal mix of UPI, Cash, and Cards for payment.
+-Interactivity :
+The left sidebar and top dropdowns allow for instant filtering by Month, Brand, Model, and Payment Method, making it a highly functional tool for data-driven decision-making.
 
 ![image alt](https://github.com/shubhammitkari64-spec/mobile-sales-analysis-power-bi/blob/3bfe9b654d6c5fbe70eaed285994084a7c91b585/Screenshot%202025-12-28%20212434.png)
 
