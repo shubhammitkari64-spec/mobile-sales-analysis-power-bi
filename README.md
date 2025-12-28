@@ -49,6 +49,6 @@ To convert raw sales data into meaningful insights through clean visuals, optimi
 
 ---
 
-## 👤 Author
+
 **Shubham Mitkari**  
 Aspiring Data Analyst | Power BI | Data Visualization
