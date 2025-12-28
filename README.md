@@ -41,7 +41,7 @@ To convert raw sales data into meaningful insights through clean visuals, optimi
 **Shubham Mitkari**  
 Aspiring Data Analyst | Power BI | Data Visualization
 
-![Dashboard](Screenshot/2025-12-28_111025.png)
-![MTD Report](Screenshot/2025-12-28_114123.png)
-![Same Period Last Year](Screenshot/2025-12-28_114250.png)
+![Dashboard](Screenshots/2025-12-28_111025.png)
+![MTD Report](Screenshots/2025-12-28_114123.png)
+![Same Period Last Year](Screenshots/2025-12-28_114250.png)
 
